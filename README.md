@@ -16,8 +16,6 @@ Build a predictive model to estimate property prices in NYC.
 
 The dataset are gathered from various sources.
 
-**The datasets**
-
 | Dataset  | Source  |  Variable Name in Notebook | Category  |   |
 |---|---|---|---|---|
 |  Property Sales (2011-2022) |  [NYC Department of Finance](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page) | propertySales  | Housing  |   |
@@ -79,6 +77,6 @@ The metadata after data cleaning can be seen through [this link](https://docs.go
 **What have been done here**: preprocessing for modeling, train and evaluate vanilla mode, choose best vanilla model for production, try optimize with hyperparameters tuning, choose best model for production model
 
 ## Result
-![roadmap](assets/geographical_analysis.png)
-![roadmap](assets/ts_analysis.png)
-![roadmap](assets/model_comparison.jpg)
+![geo](assets/geographical_analysis.png)
+![ts](assets/ts_analysis.png)
+![model](assets/model_comparison.png)
